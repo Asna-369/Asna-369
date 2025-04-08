@@ -1,5 +1,7 @@
 # Hi there, I'm Asna!
 
+<img src="img/logo.png">
+
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building creative digital solutions.
 
 ## About Me
