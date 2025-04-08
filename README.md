@@ -11,6 +11,11 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - **Currently Learning**: Advanced Python, Web Security, and Backend Development  
 - **Tools I Use**: Python, JavaScript, Ruby, HTML/CSS, Linux, Git & GitHub
 
+<a href="#"><img
+                                src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Asna-369&layout=compact&theme=chartreuse-dark"
+		  width="400" >
+  </a>
+  
 ## Projects
 
 I enjoy creating tools and applications that solve real-world problems. Check out my repositories for the latest things I’ve been building.
